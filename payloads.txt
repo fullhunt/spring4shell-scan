@@ -1,0 +1,11 @@
+class[{{random}}]={{random}}
+class.module[{{random}}]={{random}}
+class.module.classLoader[{{random}}]={{random}}
+class.module.classLoader.URLs[{{random}}]={{random}}
+class.module.classLoader.resources[{{random}}]={{random}}
+class.module.classLoader.resources.context[{{random}}]={{random}}
+class.module.classLoader.resources.context.parent[{{random}}]={{random}}
+class.module.classLoader.resources.context.parent.pipeline[{{random}}]={{random}}
+class.module.classLoader.resources.context.parent.pipeline.first.pattern[{{random}}]={{random}}
+class.module.classLoader.resources.context.parent.pipeline.first.fileDateFormat={{random}}
+class.module.classLoader.resources.context.parent.pipeline.first.fileDateFormat[{{random}}]={{random}}
